@@ -6,7 +6,7 @@
 ### [Connect with me 💬](mailto:202217b3005@wilp.bits-pilani.ac.in)
 
 <p align="left">
-<a href="https://twitter.com/amank_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amank_gupta" height="30" width="40" /></a>
+<a href="https://x.com/amank_gupta" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X.com | @amank_gupta" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/amankumar-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amankumar-gupta" height="30" width="40" /></a>
 <a href="https://www.facebook.com/100014633645552/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/100014633645552/" height="30" width="40" /></a>
 <a href="https://instagram.com/aman_up92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_up92" height="30" width="40" /></a>
