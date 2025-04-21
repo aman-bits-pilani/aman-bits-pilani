@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Aman!](https://www.linkedin.com/in/amankumar-gupta/)
 <h3>A Student from BITS Pilani</h3>
 
-<p align="left"> <a href="https://x.com/amank_gupta" target="blank"><img src="https://img.shields.io/twitter/follow/amank_gupta?logo=twitter&style=for-the-badge" alt="amank_gupta" /></a> </p>
+<p align="left"> <a href="https://x.com/amank_gupta" target="blank"><img src="https://img.shields.io/twitter/follow/amank_gupta?logo=x&style=for-the-badge" alt="amank_gupta" /></a> </p>
 
 ### [Connect with me 💬](mailto:202217b3005@wilp.bits-pilani.ac.in)
 
