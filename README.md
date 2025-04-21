@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Aman!](https://www.linkedin.com/in/amankumar-gupta/)
-<!-- <h3 align="center">A Student from India</h3> -->
+<h3>A Student from BITS Pilani</h3>
 
 <p align="left"> <a href="https://twitter.com/amank_gupta" target="blank"><img src="https://img.shields.io/twitter/follow/amank_gupta?logo=twitter&style=for-the-badge" alt="amank_gupta" /></a> </p>
 
